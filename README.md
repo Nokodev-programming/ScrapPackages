@@ -1,14 +1,6 @@
-# SMInjector
-This project is a tool that allows modders to create c++ addons for the game ScrapMechanic.
+# ScrapPackages - Injector
+The job for the injector is to modify the lua enviroment variables to expose the `require` function.
 
-Inside the `PluginDevFolder` you will find examples of how to make plugins.
+Fork from https://github.com/TechnologicNick
 
-
-## Creating a plugin
-To add a new plugin you can copy the settings from the `PluginDevFolder/SMPluginTemplate` project.
-You need to place the compiled plugin into the `plugins` folder for it to be loaded by the injector.
-
-
-### Credits
-
-Special thanks to https://github.com/TechnologicNick for helping me with this project.
+Special thank's to https://github.com/TechnologicNick for giving me a injector that wasen't released yet.
