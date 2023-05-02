@@ -10,3 +10,6 @@ Once you done that. you can now add the packages or create your own!
 To create a package, go to the Package branch and download the files and make a new folder. it's folder name can be anything. but make it sure its short to be easy to write it. And paste the files inside the folder and thats your first package!
 
 You can use the 'loadpackage' function to load a package. It requires only 1 argument. The argument is a string and must be the same as the folder name. If it spits out a error of the package not being found. then its not ether installed or injected.
+
+# Important Note:
+ScrapPackages allow's the use of dll files. Allowing dll files is dangerous as you can execute any code. NokoDev is not responsable of any damages or harm of your computer and anything else.
